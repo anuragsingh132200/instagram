@@ -16,6 +16,9 @@ This project is an implementation of an Instagram-like social media platform uti
    ```bash
    npm install
    ```
+**DEMO of the application:**
+
+https://instagram-woad-theta.vercel.app/
 
 **Running the application:**
 
